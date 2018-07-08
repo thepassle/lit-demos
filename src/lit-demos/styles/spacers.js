@@ -1,0 +1,1 @@
+export const VERT_SPACER = 4;

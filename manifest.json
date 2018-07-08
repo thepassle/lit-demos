@@ -1,0 +1,6 @@
+{
+  "name": "lit-demos",
+  "short_name": "lit-demos",
+  "start_url": "/",
+  "display": "standalone"
+}
