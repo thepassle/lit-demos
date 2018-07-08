@@ -2,10 +2,6 @@ import { LitElement, html } from '@polymer/lit-element';
 import { until } from 'lit-html/lib/until';
 
 class Demo4 extends LitElement {
-  constructor() {
-    super();
-  }
-
   _render(){
     return html`
       <h1>Demo 4</h1>

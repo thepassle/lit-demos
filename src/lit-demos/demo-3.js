@@ -3,10 +3,6 @@ import { LitElement, html } from '@polymer/lit-element';
 const helloTemplate = (name) => html`<div>Hello ${name}!</div>`;
 
 class Demo3 extends LitElement {
-  constructor() {
-    super();
-  }
-
   goodbyeTemplate(name){
     return html`<div>Goodbye ${name}<div>`
   }
